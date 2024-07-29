@@ -13,9 +13,11 @@ Seaborn: 0.13.2
 # Structure
 
 ```
-/root
+repository
+│
 ├── data
 │   └── The data itself
+│
 └── notebooks
     └── The data analysis
 ```
