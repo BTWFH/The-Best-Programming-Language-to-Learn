@@ -16,10 +16,10 @@ Seaborn: 0.13.2
 repository
 │
 ├── data
-│   └── The data itself
+│   └── The source data files
 │
 └── notebooks
-    └── The data analysis
+    └── The jupyter notebooks of data analysis
 ```
 
 # Usage 
