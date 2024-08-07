@@ -15,7 +15,7 @@ This is a summer project that was guided by the Renaissance team. The main goal 
 ```
 repository
 │
-├── The_Best_Programming_Language_to_Learn_A_Data-Driven_Approach.pdf
+├── paper.pdf
 │   └── My research paper.
 │
 ├── data
