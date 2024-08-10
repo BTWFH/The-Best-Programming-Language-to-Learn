@@ -16,7 +16,10 @@ This is a summer project that was guided by the Renaissance team. The main goal 
 repository
 │
 ├── paper.pdf
-│   └── My research paper.
+│   └── The paper.
+│
+├── presentation.pdf
+│   └── My presentation.
 │
 ├── data
 │   └── Source data files.
